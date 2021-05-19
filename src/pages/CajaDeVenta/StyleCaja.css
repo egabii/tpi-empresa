@@ -1,0 +1,19 @@
+.one{
+    background-size: cover;
+    position: relative;
+    width: 10vw;
+    height: 20vh;
+    border-color: #ff8080;
+    color: #33cc33;
+
+}
+
+.row-gx-5.one{
+    background-size: cover;
+    position: relative;
+    width: 10vw;
+    height: 20vh;
+    border-color: #ff8080;
+    color: #33cc33;
+    background-color: #3399ff;
+}

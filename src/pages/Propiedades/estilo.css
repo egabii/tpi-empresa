@@ -1,0 +1,24 @@
+.caja-tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header{
+  background-color:whitesmoke;
+}
+
+.codinm{
+  margin-top: 3%;
+}
+
+.enviar{
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.galery{
+  display: flex;
+  justify-content: space-between;
+}

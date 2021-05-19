@@ -1,0 +1,16 @@
+.bg-black {
+  background-color: #000;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-around;
+}
+.form-row-start {
+  display: flex;
+  justify-content: start;
+}
+
+.padPage { 
+  padding: 0px;
+}

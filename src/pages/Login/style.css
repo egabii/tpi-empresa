@@ -1,0 +1,32 @@
+
+.bg-image {
+  background-image: url("./image_1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form-section { 
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 0 auto;
+}
+.btn-margen{
+  margin-top: 25px;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.logo{
+  margin: 20px auto;
+  display: block;
+}
+
+.row-height {
+  height: 100vh;
+}
+
+.form-group-child {
+  margin-top: 15px;
+}
