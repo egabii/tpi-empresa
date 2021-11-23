@@ -9,7 +9,7 @@ import InputGroup from 'react-bootstrap/Form'
 import { useHistory } from "react-router-dom";
 
 export default function FormPropietario () {
-  let history=useHistory();
+  let history= useHistory();
   function handleClick(){
     history.push("/NuevaPropiedad/Ubicacion")
   }
